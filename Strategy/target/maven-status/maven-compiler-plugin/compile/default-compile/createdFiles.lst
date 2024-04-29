@@ -1,0 +1,6 @@
+com\mycompany\strategy\Context.class
+com\mycompany\strategy\CreditCard.class
+com\mycompany\strategy\PayPal.class
+com\mycompany\strategy\Main.class
+com\mycompany\strategy\PaymentStrategy.class
+com\mycompany\strategy\Bitcoin.class
