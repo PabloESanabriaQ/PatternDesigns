@@ -1,0 +1,5 @@
+com\mycompany\adapter\MotorElectrico.class
+com\mycompany\adapter\Motor.class
+com\mycompany\adapter\MotorElectricoAdapter.class
+com\mycompany\adapter\Main.class
+com\mycompany\adapter\MotorNafta.class
