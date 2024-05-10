@@ -1,0 +1,6 @@
+com\mycompany\command\Main.class
+com\mycompany\command\Command.class
+com\mycompany\command\ControlRemotoInvoker.class
+com\mycompany\command\ApagarLuzCommand.class
+com\mycompany\command\EncenderLuzCommand.class
+com\mycompany\command\Luz.class
